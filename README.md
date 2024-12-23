@@ -30,7 +30,8 @@ Witamy w naszym modpacku opartym na wersji **Minecraft Forge 1.20.4**! 🎮
 | **OptiFine**                | Poprawia wydajność gry i dodaje wsparcie dla shaderów.              |
 | **Xaero's World Map**       | Dodaje szczegółową mapę świata z możliwością nawigacji.             |
 | **Xaero's Minimap**         | Dodaje minimapę z możliwością ustawiania punktów nawigacyjnych.     |
-| **Adorn**                   | Dodaje meble i dekoracje, pozwalając na lepsze urządzenie budynków. |
+| **AdoraBuild**              | Dodaje nowe struktury budowlane i dekoracyjne, które można generować w świecie. |
+| **Towns and Towers**        | Ulepsza generację wiosek i wież strażniczych, dodając nowe, bardziej szczegółowe budowle. |
 | **Waystones**               | Dodaje teleportery umożliwiające szybkie podróżowanie po świecie.  |
 | **Living Things**           | Dodaje nowe zwierzęta i stworzenia, które ożywiają świat Minecrafta.|
 | **Goblin Traders**          | Wprowadza gobliny handlarzy z unikalnymi ofertami.                 |
@@ -41,6 +42,10 @@ Witamy w naszym modpacku opartym na wersji **Minecraft Forge 1.20.4**! 🎮
 | **Trade Cycling**           | Pozwala na szybsze odświeżanie ofert u wieśniaków.                 |
 | **Inventory HUD+**          | Wyświetla ekwipunek i inne przydatne informacje bez otwierania menu.|
 | **FreeCam**                 | Dodaje możliwość swobodnego poruszania kamerą w grze.              |
+| **AppleSkin**               | Wyświetla dodatkowe informacje o głodzie i regeneracji zdrowia.    |
+| **Structory**               | Dodaje nowe generowane struktury, takie jak mosty, ruiny i małe budynki. |
+| **Pick Up Notifier**        | Powiadamia gracza o przedmiotach podniesionych do ekwipunku.       |
+| **GlitchCore**              | Rozszerza możliwości konfiguracji gry, wspierając różne mody.      |
 
 ---
 
