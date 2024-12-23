@@ -11,7 +11,7 @@ Witamy w naszym modpacku opartym na wersji **Minecraft Forge 1.20.4**! 🎮
 
 ## Instalacja
 1. Pobierz i zainstaluj Minecraft Launcher obsługujący **Forge 1.20.4**.
-2. Pobierz najnowszą wersję Forge z [GitHuba]([https://files.minecraftforge.net/](https://github.com/bombelll/minecraft/blob/main/forge-1.20.4-49.1.13-installer.jar)).
+2. Pobierz najnowszą wersję Forge z [GitHuba](https://files.minecraftforge.net/](https://github.com/bombelll/minecraft/blob/main/forge-1.20.4-49.1.13-installer.jar)).
 3. Skopiuj wszystkie mody z folderu `mods` do swojego lokalnego folderu Minecraft:  
    **`%appdata%/.minecraft/mods`**.
 4. Uruchom grę, wybierając profil Forge.
