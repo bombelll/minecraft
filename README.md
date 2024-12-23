@@ -6,7 +6,6 @@ Witamy w naszym modpacku opartym na wersji **Minecraft Forge 1.20.4**! 🎮
 1. [Instalacja](#instalacja)
 2. [Lista Modów](#lista-modów)
 3. [Wymagania Systemowe](#wymagania-systemowe)
-4. [Zgłaszanie Błędów](#zgłaszanie-błędów)
 
 ---
 
